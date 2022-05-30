@@ -5,6 +5,7 @@
 
 
 
+
 [java badge]: https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [kt badge]: https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white
 [html badge]: https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
@@ -13,7 +14,7 @@
 [py badge]: https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 
-[![sensei-z GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-z)](https://github.com/sensei-z/github-readme-stats)
+[![sensei-z GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-z&show_icons=true&theme=radical)](https://github.com/sensei-z/github-readme-stats)
 
 
 
