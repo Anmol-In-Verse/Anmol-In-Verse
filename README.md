@@ -13,6 +13,7 @@
 [py badge]: https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 
+[![sensei-z GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-z)](https://github.com/sensei-z/github-readme-stats)
 
 
 
