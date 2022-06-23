@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Programming Languages I know and work with
+### Programming Languages I know
 ![Java][java badge] ![Kotlin][kt badge] ![HTML][html badge] ![CSS][css badge] ![JavaScript][js badge] ![Python][py badge] ![C][C#]
 
 
