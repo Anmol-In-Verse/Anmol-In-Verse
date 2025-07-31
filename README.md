@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol-In-Verse</h1>
+<h1 align="center">Hi 👋, I'm Anmol Rai</h1>
 <p align="center">
   🧠 AI Dev • 🕹️ Game/App Builder • 🧬 Medical Explorer  
   <br>🚀 Turning science, code & imagination into real-world solutions
