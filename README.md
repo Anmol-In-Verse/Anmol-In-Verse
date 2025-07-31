@@ -1,20 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anmol-In-Verse</h1>
+<p align="center">
+  🧠 AI Dev • 🕹️ Game/App Builder • 🧬 Medical Explorer  
+  <br>🚀 Turning science, code & imagination into real-world solutions
+</p>
 
-### Programming Languages I know
-![Java][java badge] ![Kotlin][kt badge] ![HTML][html badge] ![CSS][css badge] ![JavaScript][js badge] ![Python][py badge] ![C][C#]
+---
 
+## 🚀 Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
-[java badge]: https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[kt badge]: https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white
-[html badge]: https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css badge]: https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[js badge]: https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[py badge]: https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white
-[C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+## ✨ About Me
 
-[![sensei-z GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-z&show_icons=true&theme=radical)](https://github.com/sensei-z/github-readme-stats)
-
-
-
+```txt
+🌟 Medical student with a passion for merging biology, AI, and creativity.  
+💡 I love building: AI models, smart apps, indie games, and more.  
+🧠 I believe in decoding life with logic and designing tools for tomorrow.
